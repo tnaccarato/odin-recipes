@@ -10,7 +10,7 @@ img {
     font-style: italic;
 }
 /* Home Button */
-.home {
+.home button {
     color: red;
     font-size: 60px;
 }

@@ -1,0 +1,25 @@
+/* Image */
+img {
+    height: auto;
+    width: 400px;
+}
+
+/* Titles */
+.title {
+    font-size: 50px;
+    font-style: italic;
+}
+/* Home Button */
+.home {
+    color: red;
+    font-size: 60px;
+}
+/* Homepage list */
+.homepage.list {
+    font-size: 75px;
+    background-color: aqua;
+}
+/* Ingredients list */
+.ingredients {
+    background-color: teal;
+}
